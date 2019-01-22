@@ -13,6 +13,21 @@ It is a pattern that changes during the run time. It is used for example in the 
 							  </ul>	
 </p>
 
+<p><b>Creation pattern </b>:The creation pattern concerns the creation of the objects, they hide the informations of the creation of the objects.</p>
+
+<p>							
+						  <ul class="list-unstyled">
+								<li> <span class="fa fa-caret-right"></span>Factory Pattern: The factory pattern is one of the most used Design Patterns, it allows the creation of an object without the display of the creation logic to the client based on a common interface.</li>
+								<li> <span class="fa fa-caret-right"></span>Abstruct Factory Pattern:It allows to provide an interface to create objects of the same family without specifying their concrete classes. the objects are grouped together as a family, the system must use the objects of a family or other. Typically used in the creation of libraries to encapsulate program methods through the provision of interfaces to client programs.</li>
+
+								<li><span class="fa fa-caret-right"></span>Builder Editor: It is used to create a complex object using simple objects and based on the step-by-step approach.</li>
+
+								<li> <span class="fa fa-caret-right"></span>Singleton Pattern: This pattern ensures that there is a class instance that will be accessible through a global access point.</li>
+							  </ul>	
+</p>
+
+
+
 
 
 
