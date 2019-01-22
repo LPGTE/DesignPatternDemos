@@ -43,6 +43,6 @@ It is a pattern that changes during the run time. It is used for example in the 
 
 <p>In the following link an implementation in C # for the majority of the used patterns, the examples are based on the courses presented on <a href="https://www.tutorialspoint.com/design_pattern/" target="_blank">Tutorialpoint site</a>, the classes used have been modified to bring the implemented patterns to the problems frequently encountered during the development phases of computer software in particular those which concern the beds of connections to databases.</p>  
 
-<a href="http://example.com" target="_blank"></a>
+
 
 
