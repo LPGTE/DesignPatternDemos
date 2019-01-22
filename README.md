@@ -1,4 +1,4 @@
-# <p align="center"><b>Design Patternin C#</b></p>
+# <p align="center"><b>Design Pattern in C#</b></p>
 
 <p>Design Pattern is a method of modeling computer software development solutions, it is used to organize the classes used in the source codes in order to allow the re-use of the developed solutions and the simplicity of the modifications of the needs during the phases of developments.
 In this follows, a scintetic presentation for the majority of patterns used in the development of computer software.</p>
