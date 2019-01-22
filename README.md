@@ -15,3 +15,50 @@ It is a pattern that changes during the run time. It is used for example in the 
 
 
 
+<p><b>Creation pattern </b>:The creation pattern concerns the creation of the objects, they hide the informations of the creation of the objects.</p> 
+
+<p>							
+						  <ul class="list-unstyled">
+								<li> <span class="fa fa-caret-right"></span>Factory Pattern: The factory pattern is one of the most used Design Patterns, it allows the creation of an object without the display of the creation logic to the client based on a common interface.</li>
+								<li> <span class="fa fa-caret-right"></span>Abstruct Factory Pattern:It allows to provide an interface to create objects of the same family without specifying their concrete classes. the objects are grouped together as a family, the system must use the objects of a family or other. Typically used in the creation of libraries to encapsulate program methods through the provision of interfaces to client programs.</li>
+
+								<li><span class="fa fa-caret-right"></span>Builder Editor: It is used to create a complex object using simple objects and based on the step-by-step approach.</li>
+
+								<li> <span class="fa fa-caret-right"></span>Singleton Pattern: This pattern ensures that there is a class instance that will be accessible through a global access point.</li>
+							  </ul>	
+</p>
+
+<p><b>Structure pattern</b>: It describes how classes and objects are combined to form a large structure.</p>  
+
+<p>							
+						  <ul class="list-unstyled">
+								<li> <span class="fa fa-caret-right"></span>Facade Pattern: It hides system complexity and provides an interface for the client to access the system.</li>
+
+								<li> <span class="fa fa-caret-right"></span>Adapter Pattern: It plays the role of an intermediary between incompatible interfaces.</li>
+
+								<li> <span class="fa fa-caret-right"></span>Bridge Pattern: The bridge is used to decouple an abstraction from its implementation so that both vary independently.</li>
+
+								<li><span class="fa fa-caret-right"></span>Decorator Pattern (Decorator or Wrapper): It allows to add new features for an existing object without modifying its structure.</li>
+
+								<li> <span class="fa fa-caret-right"></span>Proxy Pattern: The Proxy pattern has a feature for another class,it allow the creation of an object that play the interface of another object.</li>
+
+								<li> <span class="fa fa-caret-right"></span>Composite Pattern: The composite pattern is a collection of objects where each object can be a component or a simple compound object, it allows the client application to process Component and Compound objects in the same way.</li>
+
+							  </ul>	
+</p>
+
+<p><b>MVC pattern</b>: The Mvc pattern is used to separate the components of the application.</p>  
+
+                                    
+<p>In the following link an implementation in C # for the majority of the used patterns, the examples are based on the courses presented on Tutorialpoint site, the classes used have been modified to bring the implemented patterns to the problems frequently encountered during the development phases of computer software in particular those which concern the beds of connections to databases.</p>   
+
+
+
+
+
+
+
+
+
+
+
