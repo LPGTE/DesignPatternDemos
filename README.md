@@ -45,4 +45,3 @@ It is a pattern that changes during the run time. It is used for example in the 
 
 
 
-
